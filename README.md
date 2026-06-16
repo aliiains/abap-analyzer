@@ -54,7 +54,7 @@ python main.py
 
 ### Из готового .exe (Windows)
 
-Дважды кликните `ABAP_Analyser.exe` в папке `dist\` (если собрали через `build_exe.bat`).
+Дважды кликните `ABAP_Analyser.exe` .
 
 ---
 
