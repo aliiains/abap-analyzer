@@ -1,0 +1,6 @@
+# Runtime — only stdlib modules (tkinter, abc, typing, re, dataclasses)
+# No third-party runtime dependencies required.
+
+# Test runner
+pytest>=7.4.0
+pytest-cov>=4.1.0
